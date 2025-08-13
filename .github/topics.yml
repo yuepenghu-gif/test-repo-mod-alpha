@@ -1,3 +1,3 @@
-topics:
-  - another-topic
-  - example-topic
+# GitHub repository topics
+exclude:
+  - test-topic-123
