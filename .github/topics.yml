@@ -1,5 +1,4 @@
-# Repository topics
-
-- alpha-feature
-- beta-feature
-- release-note
+topics:
+  - infrastructure
+  - machine-learning
+  - automation
